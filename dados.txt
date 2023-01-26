@@ -5,7 +5,7 @@ Dados do aluno
 -Cidade: Lauro de Freitas
 -O que faz nas horas vaga: Pratico alguns esportes e estudo.
 -Feedback sobre o curso Qualidade de Software: O curso tem agregado bastane conhecimento para mim, bem organizado e atualizado.
--Feedback sobre a plataforma de estudo da EBAC: A plataforma é bem intuitiva, excelente de manusear, com informações e caracteres bem claros
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é bem intuitiva, excelente de manusear, com informações e caracteres bem claros.
 
 Obrigado!!!
 
